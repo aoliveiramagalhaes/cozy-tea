@@ -1,4 +1,4 @@
-## Details
+## Tea Cozy
 
 In this project, I created a fictional and responsive tea shop website on my own computer.
 
